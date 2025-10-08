@@ -13,5 +13,5 @@ public class Kangaroo {
     private double height;
     private double weight;
     private String gender;
-    private boolean isAggressive;
+    private Boolean isAggressive;
 }
